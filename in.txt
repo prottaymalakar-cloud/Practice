@@ -3,7 +3,7 @@ units        real
 boundary     p p p  
 atom_style  charge # full
 
-variable    T equal 700
+variable    T equal 500
 variable    pressure equal 0.0
 variable    tstep equal 0.25
 
